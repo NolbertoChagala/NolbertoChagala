@@ -9,20 +9,22 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ¡Bienvenido a mi perfil de GitHub!  
-Full Stack Developer enfocado en construir aplicaciones modernas, arquitecturas escalables y gestión de infraestructura en producción.
+Full Stack Developer con experiencia en desarrollo de plataformas web, optimización de sistemas internos, soporte de servidores cloud y mantenimiento en producción.
 
 ---
 
 ### Proyectos Destacados
 
-* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) — Plataforma comunitaria de gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Desarrollada con Next.js, TypeScript, Prisma y Supabase.
-* **POS & PMS System** *(Repositorio Privado)* — Arquitectura integral de punto de venta y gestión de propiedades (Property Management System) con manejo de estado avanzado, flujos de reservación y validación de esquemas robusta.
+* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) ([Demo en vivo](https://reavidado-app.netlify.app/)) — Plataforma comunitaria para gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Construida con Next.js, TypeScript, Prisma y Supabase.
+* [**Transporte Aeropuerto Cancún**](https://transporteaeropuertocancun.com/es) *(Bitbucket Privado)* — Plataforma turística y logística en producción. Desarrollo del módulo de tours destacados, gestión de divisas multimoneda, generación de URLs amigables, módulo de SEO dinámico desde el panel de administración y control de roles y permisos.
+* **POS & PMS System** *(Repositorio Privado)* — Arquitectura de punto de venta y Property Management System enfocada en flujos de reservación, manejo de estado robusto y validación de esquemas.
 
 ---
 
-### Infraestructura & Producción
+### Mantenimiento de Infraestructura y Plataformas en Producción
 
-* 🚀 **Mantenimiento y despliegue continuo:** Configuración, monitoreo y soporte de servidores en la nube en **DigitalOcean** para plataformas web activas y entornos de clientes.
+* ⚙️ **Mautic Marketing Platform (DigitalOcean):** Migración completa de versiones, resolución de errores de enrutamiento, desarrollo de un módulo personalizado de gestión de etiquetas y optimización de estabilidad en servidor.
+* 🔒 **IRApp Management System (Entorno Privado / On-Premise):** Mantenimiento correctivo y optimización de UI/UX en ERP interno de operaciones. Rediseño y generación de comprobantes en PDF, módulo de visualización de pagos, corrección de inconsistencias de datos en reservaciones/proveedores y mejoras en tiempos de carga.
 
 ---
 
