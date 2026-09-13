@@ -15,7 +15,7 @@ Full Stack Developer con experiencia en desarrollo de plataformas web, optimizac
 
 ### Proyectos Destacados
 
-* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) ([Demo en vivo](https://reavidado-app.netlify.app/)) — Plataforma comunitaria para gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Construida con Next.js, TypeScript, Prisma y Supabase.
+* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) — Plataforma comunitaria para gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Construida con Next.js, TypeScript, Prisma y Supabase.
 * [**Transporte Aeropuerto Cancún**](https://transporteaeropuertocancun.com/es) *(Bitbucket Privado)* — Plataforma turística y logística en producción. Desarrollo del módulo de tours destacados, gestión de divisas multimoneda, generación de URLs amigables, módulo de SEO dinámico desde el panel de administración y control de roles y permisos.
 * **POS & PMS System** *(Repositorio Privado)* — Arquitectura de punto de venta y Property Management System enfocada en flujos de reservación, manejo de estado robusto y validación de esquemas.
 
