@@ -1,7 +1,5 @@
 # ¡Hola! Soy Nolberto 👋
 
-Ingeniero en Desarrollo y Gestión de Software & Full Stack Developer. Enfocado en construir plataformas web escalables, arquitecturas orientadas a producto y mantenimiento de sistemas en producción.
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -17,9 +15,9 @@ Ingeniero en Desarrollo y Gestión de Software & Full Stack Developer. Enfocado 
 
 ### Proyectos Destacados
 
-* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) — Plataforma para gestión comunitaria y puntuaciones grupales en tiempo real, calendario dinámico y panel administrativo con control de accesos. Construida con Next.js, TypeScript, Prisma y Supabase.
-* [**Transporte Aeropuerto Cancún**](https://transporteaeropuertocancun.com/es) — Sistema turístico y logístico en producción. Desarrollo del módulo de tours destacados, soporte multimoneda, generación de URLs amigables, módulo de SEO dinámico y control de permisos por roles.
-* **POS & PMS Architecture** — Sistema integral de punto de venta y gestión hotelera enfocado en flujos de reservación, manejo de estado robusto y validación de esquemas de datos.
+* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) — Plataforma comunitaria para gestión de puntuaciones en tiempo real, calendario dinámico y panel administrativo con control de accesos (Next.js, TypeScript, Prisma, Supabase).
+* [**Transporte Aeropuerto Cancún**](https://transporteaeropuertocancun.com/es) — Sistema turístico en producción. Módulo de tours destacados, soporte multimoneda, URLs amigables, SEO dinámico y control de permisos por roles.
+* **POS & PMS Architecture** — Sistema integral de punto de venta y gestión hotelera enfocado en flujos de reservación y validación de esquemas de datos.
 
 ---
 
