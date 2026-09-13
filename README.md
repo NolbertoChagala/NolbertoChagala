@@ -30,4 +30,4 @@ Ingeniero en Desarrollo y Gestión de Software & Full Stack Developer. Enfocado 
 
 ---
 
-📫 **Contacto:** Conectemos en [LinkedIn](https://www.linkedin.com/in/nolberto-chagala)
+📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/nolberto-chagala)
