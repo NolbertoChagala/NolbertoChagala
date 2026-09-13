@@ -15,7 +15,7 @@ Full Stack Developer enfocado en construir aplicaciones modernas, arquitecturas 
 
 ### Proyectos Destacados
 
-* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) ([Demo en vivo](https://reavidado-app.netlify.app/)) — Plataforma comunitaria de gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Desarrollada con Next.js, TypeScript, Prisma y Supabase.
+* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) — Plataforma comunitaria de gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Desarrollada con Next.js, TypeScript, Prisma y Supabase.
 * **POS & PMS System** *(Repositorio Privado)* — Arquitectura integral de punto de venta y gestión de propiedades (Property Management System) con manejo de estado avanzado, flujos de reservación y validación de esquemas robusta.
 
 ---
