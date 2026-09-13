@@ -1,6 +1,6 @@
 # ¡Hola! Soy Nolberto 👋
 
-Full Stack Developer enfocado en construir plataformas web escalables, arquitecturas orientadas a producto y mantenimiento de sistemas en producción.
+Ingeniero en Desarrollo y Gestión de Software & Full Stack Developer. Enfocado en construir plataformas web escalables, arquitecturas orientadas a producto y mantenimiento de sistemas en producción.
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -25,9 +25,9 @@ Full Stack Developer enfocado en construir plataformas web escalables, arquitect
 
 ### Infraestructura & Producción
 
-* ⚙️ **Mautic Marketing Platform:** Migración de versiones, corrección de enrutamientos del core, desarrollo de plugin personalizado para tags y optimización de estabilidad en servidores DigitalOcean.
-* 🔒 **IRApp Management ERP:** Mantenimiento y optimización de UI/UX en plataforma interna de operaciones. Rediseño de vouchers en PDF, módulo de validación de pagos y corrección de concurrencia en reservaciones.
+* ⚙️ **Mautic Marketing Platform (DigitalOcean):** Migración de versiones, corrección de enrutamientos del core, desarrollo de plugin personalizado para tags y optimización de estabilidad en servidor.
+* 🔒 **IRApp Management ERP (DigitalOcean):** Mantenimiento y optimización de UI/UX en plataforma interna de operaciones. Rediseño de vouchers en PDF, módulo de validación de pagos y corrección de concurrencia en reservaciones.
 
 ---
 
-📫 **Contacto:** Conectemos en [LinkedIn](https://www.linkedin.com/in/nolberto-chagala) o visita mi [Portafolio Web](https://portafolio-dev-sandy.vercel.app/).
+📫 **Contacto:** Conectemos en [LinkedIn](https://www.linkedin.com/in/nolberto-chagala)
