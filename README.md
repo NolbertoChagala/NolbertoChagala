@@ -29,5 +29,9 @@ Ingeniero en Desarrollo y Gestión de Software & Full Stack Developer. Enfocado 
 * 🔒 **IRApp Management ERP (DigitalOcean):** Mantenimiento y optimización de UI/UX en plataforma interna de operaciones. Rediseño de vouchers en PDF, módulo de validación de pagos y corrección de concurrencia en reservaciones.
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NolbertoChagala&layout=compact&theme=dark&hide_border=true" alt="Lenguajes más usados" />
+</p>
+---
 
 📫 **Contacto:** Conectemos en [LinkedIn](https://www.linkedin.com/in/nolberto-chagala)
