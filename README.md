@@ -25,7 +25,3 @@
 
 * ⚙️ **Mautic Marketing Platform (DigitalOcean):** Migración de versiones, corrección de enrutamientos del core, desarrollo de plugin personalizado para tags y optimización de estabilidad en servidor.
 * 🔒 **IRApp Management ERP (DigitalOcean):** Mantenimiento y optimización de UI/UX en plataforma interna de operaciones. Rediseño de vouchers en PDF, módulo de validación de pagos y corrección de concurrencia en reservaciones.
-
----
-
-📫 **Contacto:** [LinkedIn](https://www.linkedin.com/in/nolberto-chagala)
