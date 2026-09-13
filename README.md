@@ -4,18 +4,25 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 ¡Bienvenido a mi perfil de GitHub!  
-Aquí encontrarás mis principales repositorios de código abierto y sistemas para clientes.
+Full Stack Developer enfocado en construir aplicaciones modernas, arquitecturas escalables y gestión de infraestructura en producción.
 
 ---
 
 ### Proyectos Destacados
 
-* [**Corelbasoft Platform**](https://github.com/NolbertoChagala) — Plataforma web moderna y catálogo de clientes desarrollada con Next.js y Tailwind CSS.
-* [**POS & PMS System**](https://github.com/NolbertoChagala) — Arquitectura de punto de venta y gestión de propiedades con manejo de estado y validación de esquemas.
-* [**E-Commerce REST API**](https://github.com/NolbertoChagala) — API backend desarrollada con NestJS, MySQL y documentación automatizada con Swagger.
+* [**Reavivado**](https://github.com/NolbertoChagala/Reavivado) ([Demo en vivo](https://reavidado-app.netlify.app/)) — Plataforma comunitaria de gestión de puntuaciones grupales en tiempo real, calendario interactivo y panel administrativo con control de accesos. Desarrollada con Next.js, TypeScript, Prisma y Supabase.
+* **POS & PMS System** *(Repositorio Privado)* — Arquitectura integral de punto de venta y gestión de propiedades (Property Management System) con manejo de estado avanzado, flujos de reservación y validación de esquemas robusta.
+
+---
+
+### Infraestructura & Producción
+
+* 🚀 **Mantenimiento y despliegue continuo:** Configuración, monitoreo y soporte de servidores en la nube en **DigitalOcean** para plataformas web activas y entornos de clientes.
 
 ---
 
